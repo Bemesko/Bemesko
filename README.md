@@ -37,7 +37,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
 
-
+<!--
 ## 👀 Some repos you might wanna check out!
 <a align="center" href="https://github.com/bemesko/Intelligence-of-Home-GUI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bemesko&repo=Intelligence-of-Home-GUI&theme=light" />
@@ -48,6 +48,7 @@
   <a align="center" href="https://github.com/Greg-art/jogo_2d_plataforma_ppj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Greg-art&repo=jogo_2d_plataforma_ppj&theme=light" />
  </a>
+-->
   
 ## 📊 Here's some of my stats!
 
