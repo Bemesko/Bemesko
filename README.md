@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on school projects, such as [a system to predict basketball matches](https://github.com/Pibaska/NBA-Basketball-Prediction) and [my monitoring interface for multiagent systems](https://github.com/Bemesko/Intelligence-of-Home-GUI). Also I make games on the rare occasion of me having spare time. [Here's my latest one!](https://github.com/Greg-art/jogo_2d_plataforma_ppj)
 - 🌱 I’m currently learning Python, C#, project management with Scrum, and how to be a better, more efficient programmer!
 - 👯 I’m looking to collaborate on games made in Unity, python projects and whatnot.
-- 🤔 I’m looking for help with [OsBrain](https://github.com/opensistemas-hub/osbrain) and programming design patterns (specially ones such as the observer)
+- 🤔 I’m looking for help and programming design patterns (specially ones such as the observer)
 - 💬 Ask me about [setting up Notion](https://notion.so), anything related to game development and basic Python stuff.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once got first place on a [national speedcubing context](https://worldcubeassociation.org/persons/2019MESK01). Doesn't matter it was only first place in the rookies category, I still got a medal afterwards.
