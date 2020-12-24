@@ -1,7 +1,7 @@
 ## Hello, I'm Bernardo! 👋
 <img src="https://komarev.com/ghpvc/?username=Bemesko&label=Visualizações&color=blue&style=plastic" alt="Bemesko, aka Me!" />
 
-- 🔭 I’m currently working on school projects, such as [a system to predict basketball matches](https://github.com/Pibaska/NBA-Basketball-Prediction) and [my monitoring interface for multiagent systems](https://github.com/Bemesko/Intelligence-of-Home-GUI). Also I make games on the rare occasion of me having spare time. [Here's my latest one!](https://github.com/Greg-art/jogo_2d_plataforma_ppj)
+- 🔭 I’m currently working on school projects, such as [a system to predict basketball matches](https://github.com/Pibaska/NBA-Basketball-Prediction). Also I make games on the rare occasion of me having spare time. [Here's my latest one!](https://github.com/Greg-art/Golfita-BG)
 - 🌱 I’m currently learning Python, C#, project management with Scrum, and how to be a better, more efficient programmer!
 - 👯 I’m looking to collaborate on games made in Unity, python projects and whatnot.
 - 🤔 I’m looking for help and programming design patterns (specially ones such as the observer)
