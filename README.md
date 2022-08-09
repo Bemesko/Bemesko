@@ -1,13 +1,13 @@
 ## Hello, I'm Bernardo! 👋
 <img src="https://komarev.com/ghpvc/?username=Bemesko&label=Visualizações&color=blue&style=plastic" alt="Bemesko, aka Me!" />
 
-- 🔭 Currently I'm working as an R&D intern @ Philips and coursing systems development in college. Also I make games on the rare occasion of me having spare time. [Here's my latest one!](https://github.com/Greg-art/Golfita-BG)
-- 🌱 I’m currently learning Python, C#, Java and overall how to be a better, more efficient programmer!
-- 👯 I’m looking to collaborate on games made in Unity, python projects and whatnot.
-- 🤔 I’m looking for help with Linux and programming design patterns
-- 💬 Ask me about [setting up Notion](https://notion.so), anything related to game development and basic Python stuff.
+- 🔭 Currently I'm working as a junior software developer working in the Philips' DevOps team. I'm also coursing systems development in college and I try to make games on the rare occasion of me having spare time. [Here's my latest one!](https://github.com/Greg-art/Golfita-BG)
+- 🌱 I’m currently trying to expand my knowledge on DevOps, software architecture and design patterns.
+- 👯 I’m looking to collaborate on games made in Unity or any other fun projects that might need a little bit of the DevOps spice (or even a little automation to make life easier).
+- 🤔 I’m looking for help with anything related to web development, since it's still something I don't know much about and could be very useful, and also writing automated tests.
+- 💬 Ask me about [setting up Notion](https://notion.so), DevOps, game development, or anything else you might feel like asking
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once got first place on a [national speedcubing context](https://worldcubeassociation.org/persons/2019MESK01). Doesn't matter it was only first place in the rookies category, I still got a medal afterwards.
+- ⚡ Fun fact: I once got first place on a [national speedcubing context](https://worldcubeassociation.org/persons/2019MESK01). Doesn't matter if it was only first place in the rookies category, I still got a medal afterwards.
 - 📫 How to reach me: Here's some buttons to click on!
 
 <a align="center" href="https://twitter.com/bemesko">
@@ -19,36 +19,25 @@
 <a align="center" href="https://github.com/bemesko">
   <img alt="My Github (wow, a recursive link!)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a align="center" href="mailto:bemesko@gmail.com?subject=Hello%Bernardo,%20From%20Github">
+<a align="center" href="mailto:bemesko@gmail.com?subject=Hello%20Bernardo,%20From%20Github">
   <img alt="Email me!" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-## 🛠 Languages and Tools: 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+## 🛠 Languages and Tools:
 
+The list below is everything that I feel I have enough knowledge to start working on something right away, obviously I'm familiar with way more stuff but I'm not as confident as how I am with the tools below:
 
-<!--
-## 👀 Some repos you might wanna check out!
-<a align="center" href="https://github.com/bemesko/Intelligence-of-Home-GUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bemesko&repo=Intelligence-of-Home-GUI&theme=light" />
- </a>
- <a align="center" href="https://github.com/bemesko/Algoritmo-Genetico-N-Rainhas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bemesko&repo=Algoritmo-Genetico-N-Rainhas&theme=light" />
- </a>
-  <a align="center" href="https://github.com/Greg-art/jogo_2d_plataforma_ppj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Greg-art&repo=jogo_2d_plataforma_ppj&theme=light" />
- </a>
--->
+- General Purpose Programming
+  - C# (Unity) 
+  - Java
+- Scripting
+  - Python
+  - Bash
+- Automations
+  - Jenkins
+  - Docker
+- Databases
+  - Oracle SQL & PL/SQL
   
 ## 📊 Here's some of my stats!
 
