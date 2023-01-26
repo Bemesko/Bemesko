@@ -1,10 +1,10 @@
 ## Hello, I'm Bernardo! 👋
 <img src="https://komarev.com/ghpvc/?username=Bemesko&label=Visualizações&color=blue&style=plastic" alt="Bemesko, aka Me!" />
 
-- 🔭 Currently I'm working as a junior software developer working in the Philips' DevOps team. I'm also coursing systems development in college and I try to make games on the rare occasion of me having spare time. [Here's my latest one!](https://github.com/Greg-art/Golfita-BG)
+- 🔭 Currently I'm working as a junior software developer at Ip5 Tecnologia's DevOps team. I'm also coursing systems development in college.
 - 🌱 I’m currently trying to expand my knowledge on DevOps, software architecture and design patterns.
-- 👯 I’m looking to collaborate on games made in Unity or any other fun projects that might need a little bit of the DevOps spice (or even a little automation to make life easier).
-- 🤔 I’m looking for help with anything related to web development, since it's still something I don't know much about and could be very useful, and also writing automated tests.
+- 👯 I’m looking to collaborate on any fun projects that might need a little bit of the DevOps spice (or even a little automation to make life easier).
+- 🤔 I’m looking for help with Kubernetes, anything related to web development, since it's still something I don't know much about and could be very useful, and also writing automated tests.
 - 💬 Ask me about [setting up Notion](https://notion.so), DevOps, game development, or anything else you might feel like asking
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once got first place on a [national speedcubing context](https://worldcubeassociation.org/persons/2019MESK01). Doesn't matter if it was only first place in the rookies category, I still got a medal afterwards.
