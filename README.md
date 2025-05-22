@@ -1,7 +1,7 @@
 ## Hello, I'm Bernardo! 👋
 <img src="https://komarev.com/ghpvc/?username=Bemesko&label=Visualizações&color=blue&style=plastic" alt="Bemesko, aka Me!" />
 
-- 🔭 Currently I'm working as a junior software developer at Ip5 Tecnologia's DevOps team. I'm also coursing systems development in college.
+- 🔭 Currently I'm working as a DevOps Engineer at SOU.cloud
 - 🌱 I’m currently trying to expand my knowledge on DevOps, software architecture and design patterns.
 - 👯 I’m looking to collaborate on any fun projects that might need a little bit of the DevOps spice (or even a little automation to make life easier).
 - 🤔 I’m looking for help with Kubernetes, anything related to web development, since it's still something I don't know much about and could be very useful, and also writing automated tests.
