@@ -13,11 +13,6 @@ DevOps/Platform Engineer from Brazil 🇧🇷. I build the internal platforms th
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once got first place at a [national speedcubing competition](https://worldcubeassociation.org/persons/2019MESK01). Doesn't matter if it was only first place in the rookies category, I still got a medal afterwards.
 
-## ✍️ Latest posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bemesko/?locale=en_US)
