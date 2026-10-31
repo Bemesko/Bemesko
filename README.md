@@ -1,47 +1,34 @@
-## Hello, I'm Bernardo! 👋
-<img src="https://komarev.com/ghpvc/?username=Bemesko&label=Visualizações&color=blue&style=plastic" alt="Bemesko, aka Me!" />
+## Hi, I'm Bernardo! 👋
+<img src="https://komarev.com/ghpvc/?username=Bemesko&label=Profile%20views&color=blue&style=plastic" alt="Bemesko, aka Me!" />
 
-- 🔭 Currently I'm working as a DevOps Engineer at SOU.cloud
-- 🌱 I’m currently trying to expand my knowledge on DevOps, software architecture and design patterns.
-- 👯 I’m looking to collaborate on any fun projects that might need a little bit of the DevOps spice (or even a little automation to make life easier).
-- 🤔 I’m looking for help with Kubernetes, anything related to web development, since it's still something I don't know much about and could be very useful, and also writing automated tests.
-- 💬 Ask me about [setting up Notion](https://notion.so), DevOps, game development, or anything else you might feel like asking
+Platform Engineer from Brazil 🇧🇷. I build the internal platforms that let teams ship faster with less ops toil: Kubernetes, Terraform, GitOps and observability on Azure and AWS. Lately, that means putting AI agents into production safely, with the infrastructure, guardrails and cost controls around them.
+
+- 🔭 Currently a DevOps Engineer at SOU, building Terraform platforms, AKS fleets and infrastructure for AI agents.
+- 🤖 Into platforms for AI agents: least-privilege access, MCP servers, budgets and observability for agentic systems.
+- 🔍 Also into observability with OpenTelemetry and FinOps, a.k.a. making the cloud bill smaller without making anything slower.
+- ✍️ I write about DevOps, platforms and AI at [Captain DevOps](https://captaindevops.substack.com).
+- 🎤 Recent talks: *Agentic DevOps* (webinar co-hosted with Microsoft, 2026) and *Observability on Kubernetes with OpenTelemetry* (Codecon Meetup, 2025).
+- 🏅 Microsoft Certified: DevOps Engineer Expert, one of 8 Microsoft certifications.
+- 💬 Ask me about golden paths, GitOps, OpenTelemetry, or why your next Kubernetes upgrade doesn't have to be scary.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once got first place on a [national speedcubing context](https://worldcubeassociation.org/persons/2019MESK01). Doesn't matter if it was only first place in the rookies category, I still got a medal afterwards.
-- 📫 How to reach me: Here's some buttons to click on!
+- ⚡ Fun fact: I once got first place at a [national speedcubing competition](https://worldcubeassociation.org/persons/2019MESK01). Doesn't matter if it was only first place in the rookies category, I still got a medal afterwards.
 
-<a align="center" href="https://twitter.com/bemesko">
-  <img alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a align="center" href="https://www.linkedin.com/in/bemesko/?locale=en_US">
-  <img alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a align="center" href="https://github.com/bemesko">
-  <img alt="My Github (wow, a recursive link!)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a align="center" href="mailto:bemesko@gmail.com?subject=Hello%20Bernardo,%20From%20Github">
-  <img alt="Email me!" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+## ✍️ Latest posts
 
-## 🛠 Languages and Tools:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-The list below is everything that I feel I have enough knowledge to start working on something right away, obviously I'm familiar with way more stuff but I'm not as confident as how I am with the tools below:
+## 📫 Where to find me
 
-- General Purpose Programming
-  - C# (Unity) 
-  - Java
-- Scripting
-  - Python
-  - Bash
-- Automations
-  - Jenkins
-  - Docker
-- Databases
-  - Oracle SQL & PL/SQL
-  
-## 📊 Here's some of my stats!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bemesko/?locale=en_US)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://captaindevops.substack.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bemesko@gmail.com?subject=Hello%20Bernardo,%20From%20Github)
 
-<a href="https://github.com/Bemesko">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Bemesko&&show_icons=true&hide_title=true" />
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemesko&hide_title=true&hide_border=true&layout=compact" />
-</a>
+## 🛠 What I work with
+
+- **Cloud:** Azure, AWS
+- **Platform & IaC:** Kubernetes (AKS), Terraform, Helm, ArgoCD, Docker
+- **CI/CD:** GitHub Actions, Azure DevOps, Jenkins
+- **Observability:** OpenTelemetry, Prometheus, Grafana, Jaeger, Graylog, Elasticsearch/Kibana
+- **AI & agents:** GitHub Copilot, Microsoft Foundry
+- **Scripting:** Bash, Python, PowerShell
