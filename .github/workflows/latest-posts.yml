@@ -1,0 +1,42 @@
+name: Latest blog posts
+
+# Substack answers 403 to GitHub Actions runners, so the post list is read from
+# the portfolio instead: bemesko.github.io/posts.json is rebuilt daily from the
+# feed. If it can't be fetched, the README is left as it is.
+on:
+  schedule:
+    - cron: '47 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update the post list
+        run: |
+          python3 - <<'EOF'
+          import json, re, urllib.request
+          from datetime import datetime
+
+          with urllib.request.urlopen('https://bemesko.github.io/posts.json', timeout=30) as r:
+              posts = json.load(r)[:3]
+          lines = []
+          for p in posts:
+              d = datetime.fromisoformat(p['date'].replace('Z', '+00:00'))
+              lines.append(f"- [{p['title']}]({p['url']}) · {d:%b} {d.day}, {d.year}")
+          readme = open('README.md', encoding='utf-8').read()
+          start, end = '<!-- BLOG-POST-LIST:START -->', '<!-- BLOG-POST-LIST:END -->'
+          new = re.sub(f'{start}.*?{end}', start + '\n' + '\n'.join(lines) + '\n' + end, readme, flags=re.S)
+          open('README.md', 'w', encoding='utf-8').write(new)
+          EOF
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then echo "no new posts"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update latest blog posts"
+          git push
