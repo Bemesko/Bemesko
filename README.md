@@ -10,9 +10,9 @@ Case studies, the tools I work with and my background all live on my portfolio: 
 ### ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Seniority is having opinions](https://captaindevops.substack.com/p/seniority-is-having-opinions) · Nov 14, 2026
-- [Align mental models first](https://captaindevops.substack.com/p/align-mental-models-first) · Nov 12, 2026
-- [Some thoughts about AdonisJS](https://captaindevops.substack.com/p/some-thoughts-about-adonisjs) · Nov 10, 2026
+- **[Seniority is having opinions](https://captaindevops.substack.com/p/seniority-is-having-opinions)** · Nov 14, 2026 · 2 min read<br>The title of this post is one of my latest conclusions considering how our relationship to work has changed after agentic development became widespread. There are a few…
+- **[Align mental models first](https://captaindevops.substack.com/p/align-mental-models-first)** · Nov 12, 2026 · 2 min read<br>*Or suffer the consequences.* As I write this, yesterday I’ve had my first experience conducting a guided usability test with a real customer. Let me tell you how it got to it. There’s a specific…
+- **[Some thoughts about AdonisJS](https://captaindevops.substack.com/p/some-thoughts-about-adonisjs)** · Nov 10, 2026 · 2 min read<br>*Albeit not deeply-informed ones.* AdonisJS is a really interesting typescript framework. I’m not too well-versed in web development frameworks, but I thought this would be a good moment to put on the…
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Where to find me

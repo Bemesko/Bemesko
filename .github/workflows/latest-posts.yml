@@ -27,10 +27,21 @@ jobs:
           lines = []
           for p in posts:
               d = datetime.fromisoformat(p['date'].replace('Z', '+00:00'))
-              lines.append(f"- [{p['title']}]({p['url']}) · {d:%b} {d.day}, {d.year}")
+              meta = f"{d:%b} {d.day}, {d.year}"
+              if p.get('minutes'):
+                  meta += f" · {p['minutes']} min read"
+              blurb = ''
+              if p.get('subtitle'):
+                  blurb += '*' + p['subtitle'].rstrip('.') + '.* '
+              blurb += p.get('excerpt', '')
+              line = f"- **[{p['title']}]({p['url']})** · {meta}"
+              if blurb.strip():
+                  line += f"<br>{blurb.strip()}"
+              lines.append(line)
           readme = open('README.md', encoding='utf-8').read()
           start, end = '<!-- BLOG-POST-LIST:START -->', '<!-- BLOG-POST-LIST:END -->'
-          new = re.sub(f'{start}.*?{end}', start + '\n' + '\n'.join(lines) + '\n' + end, readme, flags=re.S)
+          block = start + '\n' + '\n'.join(lines) + '\n' + end
+          new = re.sub(f'{start}.*?{end}', lambda _: block, readme, flags=re.S)
           open('README.md', 'w', encoding='utf-8').write(new)
           EOF
       - name: Commit if changed
