@@ -1,11 +1,13 @@
 name: Latest blog posts
 
 # Substack answers 403 to GitHub Actions runners, so the post list is read from
-# the portfolio instead: bemesko.github.io/posts.json is rebuilt daily from the
+# the portfolio instead: bemesko.github.io/posts.json is rebuilt from the
 # feed. If it can't be fetched, the README is left as it is.
 on:
+  # even days at 14:00 UTC (11:00 in Brazil), half an hour after the
+  # portfolio's own rebuild has refreshed posts.json
   schedule:
-    - cron: '47 10 * * *'
+    - cron: '0 14 2-30/2 * *'
   workflow_dispatch:
 
 permissions:
